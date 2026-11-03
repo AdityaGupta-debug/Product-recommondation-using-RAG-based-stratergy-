@@ -12,6 +12,7 @@ A production-style **Retrieval-Augmented Generation (RAG)** chatbot that recomme
 
 ---
 
+\
 ## Features
 
 - **RAG pipeline** built with LangChain: retrieves the most relevant product data and passes it to the LLM, so recommendations come from your data rather than the model's memory.
